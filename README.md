@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zwy-Giser, a Ph.D. candidate at Peking University.
+- 👋 Hi, I’m Weiyu Zhang, a Ph.D. candidate at Peking University.
 - 👀 My research interests includes **pre-training and post-training of Multimodal LLM, Multimodal representation learning, and generative models.**.
 - 📫 Please email me at <wyzhang929@gmail.com>.
 
