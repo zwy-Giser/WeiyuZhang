@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @zwy-Giser, a Ph.D. candidate in Peking University.
-- 👀 My research interests includes **GeoAI, Urban Sciecne, Social Sensing and Deep Generative Models**.
+- 👋 Hi, I’m @zwy-Giser, a Ph.D. candidate at Peking University.
+- 👀 My research interests includes **pre-training and post-training of Multimodal LLM, Multimodal representation learning, and generative models.**.
 - 📫 Please email me at <wyzhang929@gmail.com>.
 
 <!---
